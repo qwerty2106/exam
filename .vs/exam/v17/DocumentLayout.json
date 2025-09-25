@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\222909071095-1\\Desktop\\exam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A6A46207-2413-4283-8B16-CF8EE9D520E7}|exam\\exam.csproj|c:\\users\\222909071095-1\\desktop\\exam\\exam\\createpartner.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6A46207-2413-4283-8B16-CF8EE9D520E7}|exam\\exam.csproj|solutionrelative:exam\\createpartner.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6A46207-2413-4283-8B16-CF8EE9D520E7}|exam\\exam.csproj|c:\\users\\222909071095-1\\desktop\\exam\\exam\\changewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6A46207-2413-4283-8B16-CF8EE9D520E7}|exam\\exam.csproj|solutionrelative:exam\\changewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6A46207-2413-4283-8B16-CF8EE9D520E7}|exam\\exam.csproj|c:\\users\\222909071095-1\\desktop\\exam\\exam\\changewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A6A46207-2413-4283-8B16-CF8EE9D520E7}|exam\\exam.csproj|solutionrelative:exam\\changewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6A46207-2413-4283-8B16-CF8EE9D520E7}|exam\\exam.csproj|c:\\users\\222909071095-1\\desktop\\exam\\exam\\createpartner.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A6A46207-2413-4283-8B16-CF8EE9D520E7}|exam\\exam.csproj|solutionrelative:exam\\createpartner.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6A46207-2413-4283-8B16-CF8EE9D520E7}|exam\\exam.csproj|c:\\users\\222909071095-1\\desktop\\exam\\exam\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A6A46207-2413-4283-8B16-CF8EE9D520E7}|exam\\exam.csproj|solutionrelative:exam\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 655,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreatePartner.xaml",
+              "DocumentMoniker": "C:\\Users\\222909071095-1\\Desktop\\exam\\exam\\CreatePartner.xaml",
+              "RelativeDocumentMoniker": "exam\\CreatePartner.xaml",
+              "ToolTip": "C:\\Users\\222909071095-1\\Desktop\\exam\\exam\\CreatePartner.xaml",
+              "RelativeToolTip": "exam\\CreatePartner.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-25T09:14:23.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreatePartner.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\222909071095-1\\Desktop\\exam\\exam\\CreatePartner.xaml.cs",
+              "RelativeDocumentMoniker": "exam\\CreatePartner.xaml.cs",
+              "ToolTip": "C:\\Users\\222909071095-1\\Desktop\\exam\\exam\\CreatePartner.xaml.cs",
+              "RelativeToolTip": "exam\\CreatePartner.xaml.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAjwBwAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T09:12:15.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChangeWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\222909071095-1\\Desktop\\exam\\exam\\ChangeWindow.xaml.cs",
+              "RelativeDocumentMoniker": "exam\\ChangeWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\222909071095-1\\Desktop\\exam\\exam\\ChangeWindow.xaml.cs",
+              "RelativeToolTip": "exam\\ChangeWindow.xaml.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAkwEMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T09:21:49.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChangeWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\222909071095-1\\Desktop\\exam\\exam\\ChangeWindow.xaml",
+              "RelativeDocumentMoniker": "exam\\ChangeWindow.xaml",
+              "ToolTip": "C:\\Users\\222909071095-1\\Desktop\\exam\\exam\\ChangeWindow.xaml",
+              "RelativeToolTip": "exam\\ChangeWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-25T09:11:13.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\222909071095-1\\Desktop\\exam\\exam\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "exam\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\222909071095-1\\Desktop\\exam\\exam\\MainWindow.xaml",
+              "RelativeToolTip": "exam\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-25T09:10:24.473Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
